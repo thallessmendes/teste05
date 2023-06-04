@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fraunces', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+body{
+    background-color: #fff;
+    color: #fff;
+}
+
+h1{
+    padding-top: 15px;
+}
+
+h1 span{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 6px;
+}
+
+h1 span span{
+    color: hsl(277, 64%, 61%);
+    margin-left: 6px;
+}
+
+.div1{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin-top: 120px;
+    
+}
+
+main{
+    width: 415px;
+    height: 280px;
+    background-color: hsl(244, 38%, 16%);
+    padding: 20px;
+    margin-bottom: 50px;
+    padding-left: 45px;
+}
+
+img{
+    width: 320px;
+    height: 320px;
+    display: flex;
+    border-radius: 0 10px 10px 0 ;
+    
+}
+
+p{
+    padding-top: 20px;
+}
+
+p span{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p span span{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.divid{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}   
+
+h3{
+    margin-right: 66px;
+    padding-top: 40px;
+    
+}
+
+.paragrafo{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.paragrafo p {
+    margin-right: 45px;
+    font-size: 12px;
+    
+}
